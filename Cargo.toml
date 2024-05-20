@@ -2,6 +2,8 @@
 name = "chouten"
 version = "0.1.0"
 edition = "2021"
+description = "A cli for testing and creating chouten modules"
+license = "MIT"
 
 [dependencies]
 reqwest = { version = "0.11", features = ["json", "blocking"] }
